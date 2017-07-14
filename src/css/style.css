@@ -22,3 +22,13 @@ canvas, .top, .bottom  {
   padding: 10px;
   width: calc(100% - 20px);
 }
+
+#shapes-cast, .filter {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex
+}
+
+.filter {
+  margin-left: 25px;
+}
