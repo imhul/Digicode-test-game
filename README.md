@@ -25,6 +25,9 @@ into your root project directory and type:
 ```
 git clone git@github.com:imhul/test_game.git
 ```
+Demo
+----------
+[live demo link](http://weblogic.com.ua/app/lab/pixi/index.html)
 
 How to play
 ----------
